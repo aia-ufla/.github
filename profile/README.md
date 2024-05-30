@@ -1,0 +1,3 @@
+# About us
+
+The Artificial Intelligence and Automation Research Group (AIA) of the Federal University of Lavras was created in 2013 and aims at developing Artificial Intelligence (AI) tools, applying them to a wide range of purposes, from agribusiness to biomedical signal processing. Through Machine Learning and Computational Intelligence techniques, such as Artificial Neural Networks, Fuzzy Systems and Evolutionary Computation, we analyze data sets and extract knowledge from them, recognizing patterns, making predictions, and controlling real processes. We develop our own embedded systems and automate various processes.
